@@ -1,0 +1,32 @@
+{
+  "id": "3828b135-8aa0-4684-bad1-df0c93767772",
+  "name": "Pinned Comment Lines",
+  "publisher": "Mohana",
+  "version": "1.0.0.0",
+  "brief": "Pin comment lines so they surface as a notification when the record is used.",
+  "description": "Extends the standard Business Central comment sheet with a Pinned flag, an optional expiry date, and a severity. Pinned comments raise a single aggregated notification when a customer, vendor, or item card is opened, and when the record is selected on a sales or purchase document. The notification is controlled from the user's own My Notifications settings.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 53100,
+      "to": 53149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
